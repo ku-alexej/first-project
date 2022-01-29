@@ -1,1 +1,2 @@
-Fdgsfg
+public class Converter {
+}
